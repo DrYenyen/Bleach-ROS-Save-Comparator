@@ -2,7 +2,7 @@
 A GUI that can select multiple Bleach Rebirth of Souls save files and compare them. Works with PC saves and decrypted PS4 saves.
 
 # Info
-Currently just a template to grabbing certain offsets for stuff. Will be integrated into a save editor.
+Currently just a template to grabbing certain offsets for stuff. Will be integrated into a save editor. Currently it spits out duplicates for more than one change in a line but when integrated into the save editor it will give a range.
 
 # Contribute
 Send offsets with info if you want via an issue . We already have EXP, Level, Money, Fragments and Crystals just talismans and some other small stuff is missing. 
