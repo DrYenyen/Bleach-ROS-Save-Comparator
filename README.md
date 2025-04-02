@@ -26,8 +26,8 @@ Location: 000246C8
 File 1 Context: 28 0A 01 DB 08 00 00 00 00 D4 1F D8 22 28 0A 01   
 File 2 Context: 28 0A 01 DB 08 00 00 00 50 D4 1F D8 22 28 0A 01    
 --------------------------------------------------    
-Offset: 000246D0   
-Location: 000246D5     
-File 1 Context: DB 09 00 00 00 00 D4 1F D8 22 28 0A 01 DB 0A 00   
-File 2 Context: DB 09 00 00 00 C3 D4 1F D8 22 28 0A 01 DB 0A 00   
+Offset: 000246D0      
+Location: 000246D5           
+File 1 Context: DB 09 00 00 00 00 D4 1F D8 22 28 0A 01 DB 0A 00       
+File 2 Context: DB 09 00 00 00 C3 D4 1F D8 22 28 0A 01 DB 0A 00       
 
