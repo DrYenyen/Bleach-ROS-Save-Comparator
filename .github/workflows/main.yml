@@ -1,6 +1,6 @@
 # Build Bleach-Save-Comparator
 
-name: Build Bleach-Save-Comparator
+name: Build Bleach-Save-Comparator 
 
 on:
   push:
