@@ -9,7 +9,7 @@ Send offsets with info if you want via an issue . We already have EXP, Level, Mo
 
 # Template
 
-ATK Soul Crystal     
+* ATK Soul Crystal     
 Rage   
 Offset: 00024690   
 Location: 00024694     
